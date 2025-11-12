@@ -289,25 +289,6 @@ Microsoft Excel → File → Open → Telco-Customer-Churn-Analysis-[Excel].xlsx
 
 ---
 
-## 💼 Business Recommendations
-
-**Contract Strategy**
-- Introduce contract upgrade offers for month-to-month users
-
-**Payment Method Incentives**
-- Offer auto-pay discounts to reduce churn from electronic check users
-
-**Loyalty Programs**
-- Launch loyalty rewards for customers with tenure >12 months
-
-**Pricing Strategy**
-- Conduct price-value surveys for high-paying customers to identify pain points
-
-**Retention Campaigns**
-- Use targeted retention campaigns for paperless billing customers
-
----
-
 ## 🧰 Tech Stack
 
 | Component | Technology |
