@@ -19,7 +19,6 @@ An Excel-based solution built to analyze customer churn patterns in a telecom co
 - [Installation & Prerequisites](#installation--prerequisites)
 - [How to Use](#how-to-use)
 - [Key Insights](#key-insights)
-- [Business Recommendations](#business-recommendations)
 - [Tech Stack](#tech-stack)
 - [Skills Demonstrated](#skills-demonstrated)
 
